@@ -1,4 +1,4 @@
-# wyy
+# music
 仿网易云音乐Vue项目
 ## 文件说明
 NeteaseCloudMusicApi 网易云接口文件  
