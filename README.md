@@ -11,7 +11,7 @@ wangyiyun-app 网易云音乐vue项目文件
 ## 页面介绍
 ### 首页
 vant组件库  
-vue3组合式api  
+vue组合式api  
 使用axios获取，封装axios
 ### 歌单详情页
 利用路由跳转，路由传参  
