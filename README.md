@@ -10,7 +10,7 @@ wangyiyun-app 网易云音乐vue项目文件
 在wangyiyun-app目录下打开终端输入npm i 下载依赖包后输入npm run serve
 ## 页面介绍
 ### 首页
-vant组件库  
+利用vant组件库进行页面渲染  
 vue组合式api  
 使用axios获取，封装axios
 ### 歌单详情页
@@ -32,4 +32,17 @@ vue组合式api
 未登录的时候点击‘我的‘跳转到登录页面  
 扫码登录后获取用户信息并保存到vuex和localStorage里，保持登录状态  
 并跳转到个人中心页面，根据登录成功的个人id获取并渲染对应的个人数据
+## 图片预览
+![63ed3cfedefc24719e948c4d646dcde](https://github.com/LianZhuoFeng/music/assets/120152501/41d1f36a-456c-4a9e-9849-e0f73596a007)
+![2b2376b29e58fcd88d2377ef824001d](https://github.com/LianZhuoFeng/music/assets/120152501/a647a7e3-5223-4c29-b54b-12de2a0e5191)
+![d26d5dfc3cbcb2e7ce8f92cf04e7266](https://github.com/LianZhuoFeng/music/assets/120152501/b314fa6b-ee55-49e5-b26b-4e8bd7bef9b1)
+![e6500d79bad4bd330ddcab2ca0ba192](https://github.com/LianZhuoFeng/music/assets/120152501/08add667-0869-4922-b6d7-c437a1289451)
+![513796cd571b8b2083dfc10a1e79c68](https://github.com/LianZhuoFeng/music/assets/120152501/23d7bdf7-4d65-43a0-b15b-c0797acbbdb8)
+![96d6d5d589f003717d69d5e8c159982](https://github.com/LianZhuoFeng/music/assets/120152501/275937dd-fff9-4c92-95b9-4eb0fd97f5ca)
+
+
+
+
+
+
 
